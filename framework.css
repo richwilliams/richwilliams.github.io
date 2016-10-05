@@ -1,0 +1,145 @@
+html,
+body,
+div {
+  background-color: white;
+}
+
+div.red {
+  background-color: maroon;
+}
+
+div.black {
+  background-color: black;
+}
+
+::selection {
+  color: white;
+  background: white;
+}
+
+#framework h2 {
+  background-color: white;
+}
+
+body,
+html {
+  color: #10181f;
+}
+
+#framework h2 {
+  font-family: "Roboto", "Source Sans Pro", source-sans-pro, Helvetica, Arial, sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+#framework h2.light {
+  color: white;
+  background-color: transparent;
+}
+#framework h3 {
+  font-family: "Roboto", "Source Sans Pro", source-sans-pro, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+}
+#framework h3.light {
+  color: white;
+  background-color: transparent;
+}
+#framework h3.urgent {
+  color: #ac0033;
+}
+#framework h4 {
+  font-family: "Roboto", "Source Sans Pro", source-sans-pro, Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+#framework h4.light {
+  color: white;
+  background-color: transparent;
+}
+#framework h4.urgent {
+  color: #ac0033;
+}
+#framework h5 {
+  font-family: "Roboto", "Source Sans Pro", source-sans-pro, Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+}
+#framework h5.light {
+  color: white;
+  background-color: transparent;
+}
+#framework h5.urgent {
+  color: #ac0033;
+}
+#framework h6 {
+  font-family: "Roboto", "Source Sans Pro", source-sans-pro, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+}
+#framework h6.light {
+  color: white;
+  background-color: transparent;
+}
+#framework h6.urgent {
+  color: #ac0033;
+}
+#framework p {
+  font-family: "Roboto", "Source Sans Pro", source-sans-pro, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+}
+#framework p.light {
+  color: white;
+  background-color: transparent;
+}
+#framework p.small {
+  font-size: 11px;
+}
+#framework p.large {
+  font-size: 15px;
+}
+#framework div.plumb {
+  background-color: #701c45;
+}
+#framework button {
+  border: none;
+  text-transform: uppercase;
+  color: #10181f;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  padding: 50px 40px;
+  position: relative;
+  background-color: transparent;
+}
+#framework button.dark {
+  color: gray;
+}
+#framework button:before {
+  content: "|";
+  font-size: 56px;
+  transform: rotate(45deg);
+  position: absolute;
+  font-weight: normal;
+  left: 20px;
+  top: 10px;
+}
+#framework button.urgent:before {
+  color: #ac0033;
+}
+#framework button.light {
+  color: white;
+}
+
+.axwayTriangle {
+  position: absolute;
+  background-image: url(https://precocityrw.github.io/axwayTriangle.png);
+  background-size: cover;
+  left: 0;
+  top: -3px;
+  height: 423px;
+  width: 470px;
+  display: block;
+  z-index: 30;
+  content: "";
+  background-color: transparent;
+}
