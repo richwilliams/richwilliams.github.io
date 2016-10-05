@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5.21734783 10.4347826 10.4346957 10.4347826 10.4346957 0 5.21734783 0 0 0 0 10.4347826 5.21734783 10.4347826"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1405.000000, -2776.000000)">
+            <g id="Footer" transform="translate(380.000000, 2588.000000)">
+                <g id="Social" transform="translate(997.000000, 188.000000)">
+                    <g id="facebook" transform="translate(28.000000, 0.000000)">
+                        <ellipse id="Oval-3" fill="#AAAAAA" cx="10.2608696" cy="10" rx="10" ry="10"></ellipse>
+                        <g id="Facebook" transform="translate(5.043478, 4.782609)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M5.57347826,10.4347826 L0.575869565,10.4347826 C0.257608696,10.4347826 0,10.1769565 0,9.85891304 L0,0.575869565 C0,0.257826087 0.257826087,0 0.575869565,0 L9.85891304,0 C10.1769565,0 10.4347826,0.257826087 10.4347826,0.575869565 L10.4347826,9.85891304 C10.4347826,10.1769565 10.1767391,10.4347826 9.85891304,10.4347826 L7.19978261,10.4347826 L7.19978261,6.39391304 L8.55608696,6.39391304 L8.75913043,4.81913043 L7.19978261,4.81913043 L7.19978261,3.81369565 C7.19978261,3.3576087 7.32630435,3.04695652 7.98021739,3.04695652 L8.81413043,3.04652174 L8.81413043,1.63804348 C8.67,1.61891304 8.17478261,1.57608696 7.59891304,1.57608696 C6.39652174,1.57608696 5.57347826,2.31 5.57347826,3.6576087 L5.57347826,4.81913043 L4.21369565,4.81913043 L4.21369565,6.39391304 L5.57347826,6.39391304 L5.57347826,10.4347826 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
