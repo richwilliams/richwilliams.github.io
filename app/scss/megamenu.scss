@@ -1,0 +1,194 @@
+// http://jsfiddle.net/ztczg6h7/1/
+// http://stackoverflow.com/questions/32094344/how-to-make-full-width-mega-menu-in-bootstrap
+// http://stackoverflow.com/users/4258081/shehary
+// THANK YOU!
+
+@import 'framework';
+
+.menu-large {
+  position: static !important;
+}
+.megamenu {
+  padding: 20px 0px;
+  width: 100%;
+}
+.megamenu> li > ul {
+  padding: 0;
+  margin: 0;
+}
+@media (max-width: 767px) {
+  ul.nav.navbar-nav > li {
+    background-color: $lightgray;
+    ul {
+      padding-top: 0;
+      padding-bottom: 0;
+      li {
+        background-color: white;
+        margin-bottom: 0;
+        padding-left: 30px;
+        ul {
+          padding-bottom: 0px;
+          li {
+            margin: 0 0 0 0;
+            padding: 0 0 0 0;
+            position: relative;
+
+          }
+          ul {
+            li {
+              padding: 15px;
+            }
+          }
+        }
+      }
+    }
+  }}
+
+@media (max-width: 767px) {
+  #megamenu > li > ul > li.dropdown-header.accordion-toggle > h6 {
+    margin: 0 0 0 0;
+  }
+  #megamenu > li > ul > li.dropdown-header.accordion-toggle {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  #megamenu > li > ul > li > ul {
+    margin-bottom: 0px;
+    margin-top: 5px;
+  }
+  #megamenu > li > ul > li > ul > li {
+    padding: 5px 0 5px 0;
+  }
+  .framework ul.nav.navbar-nav > li > ul > li > ul > li:after {
+    content: "";
+    right: 10px;
+    top: 10px;
+    height: 15px;
+    width: 15px;
+    color: red;
+    position: absolute;
+    background-image: url(http://image.flaticon.com/icons/svg/60/60799.svg);
+    background-size: contain;
+  }
+  .framework ul.nav.navbar-nav > li > ul > li > ul > li.collapsed:after {
+    background-image:       url(http://image.flaticon.com/icons/svg/60/60781.svg);
+  }
+  .navbar-nav {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  li.dropdown.menu-large {
+    position: relative;
+  }
+  li.dropdown.menu-large > a:after {
+    content: "";
+    right: 10px;
+    height: 15px;
+    width: 15px;
+    color: red;
+    position: absolute;
+    background-image: url(http://image.flaticon.com/icons/svg/60/60758.svg);
+    background-size: contain;
+  }
+  li.dropdown.menu-large.open > a {
+    padding-left: 30px;
+  }
+  li.dropdown.menu-large.open > a:after {
+    left: 5px;
+    background-image: url(http://image.flaticon.com/icons/svg/60/60965.svg);
+  }
+  .navbar-brand {
+    float: none;
+    height: 50px;
+    padding: 0;
+    font-size: 18px;
+    line-height: 20px;
+    position: absolute;
+    left: calc(50% - 50px);
+    top: 10px;
+    width: 100px;
+  }
+  .navbar-search {
+    position: relative;
+    right: 10px;
+    top: 10px;
+    background-image: url(http://image.flaticon.com/icons/svg/61/61088.svg);
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+    background-color: transparent;
+    border: none;
+    float: right;
+    margin-bottom: 23px;
+  }
+  .navbar-toggle {
+    position: absolute;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 0px solid transparent;
+    border-radius: 4px;
+    margin-left: 5px;
+    color: black;
+  }
+}
+
+
+
+
+.megamenu {
+  margin-left: 0;
+  margin-right: 0;
+  .dropdown-header {
+    display: block;
+    padding: 0 0;
+    padding-left: 0 !important;
+    h6 {
+      font-size: 12px;
+      margin: 0 0 0;
+      padding: 0;
+      color: $black;
+    }
+  }
+
+  .megamenu> li {
+    margin-bottom: 30px;
+  }
+
+  .megamenu> li:last-child {
+    margin-bottom: 0;
+  }
+
+  .navbar-nav .open .dropdown-menu .dropdown-header {
+    color: #fff;
+  }
+
+  .navbar::selection {
+    color: $black;
+    background: white;
+  }
+}
+@media (min-width: 768px) {
+  .navbar-search {display: none}
+  .navbar-default .navbar-nav > .open > a,
+  .navbar-default .navbar-nav > .open > a:focus,
+  .navbar-default .navbar-nav > .open > a:hover {
+    color: $black;
+    background-color: white;
+    border-bottom: $red 4px solid;
+  }
+
+  .nav .open>a,
+  .nav .open>a:focus,
+  .nav .open>a:hover,
+  .nav .open>a,
+  .nav a:focus,
+  .nav a:hover {
+    border-bottom: $lightred solid 4px;
+    background-color: white;
+  }
+}

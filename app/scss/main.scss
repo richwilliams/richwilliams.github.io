@@ -1,0 +1,25 @@
+html,
+body,
+div {
+  background-color: white
+}
+
+div.red {
+  background-color: maroon
+}
+
+div.black {
+  background-color: black
+}
+
+//::selection {
+//  color: white;
+//  background: white;
+//}
+
+//Reset Framework
+#framework, .framework {
+  h2 {
+    background-color: white;
+  }
+}

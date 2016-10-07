@@ -1,0 +1,194 @@
+//Begin Transferrable Framework
+$font-family: 'Roboto',
+'Source Sans Pro',
+source-sans-pro,
+Helvetica,
+Arial,
+sans-serif;
+$white: white;
+$red: #ac0033;
+$darkred: #ac1e37;
+$lightred: #d8272d;
+$darkerred: #701d45;
+$black: #10181f;
+$lightgray: #e9eae9;
+body,
+html {
+  color: $black;
+  font-family: $font-family;
+}
+
+.framework {
+  a {
+    color: $black;
+  }
+  h2 {
+    font-family: $font-family;
+    font-size: 36px;
+    font-weight: 700;
+    &.light {
+      color: $white;
+      background-color: transparent;
+    }
+  }
+  h3 {
+    font-family: $font-family;
+    font-size: 22px;
+    font-weight: 500;
+    &.light {
+      color: $white;
+      background-color: transparent;
+    }
+    &.urgent {
+      color: $red;
+    }
+  }
+  h4 {
+    font-family: $font-family;
+    font-size: 20px;
+    font-weight: 700;
+    &.light {
+      color: $white;
+      background-color: transparent;
+    }
+    &.urgent {
+      color: $red;
+    }
+  }
+  h5 {
+    font-family: $font-family;
+    font-size: 17px;
+    font-weight: 700;
+    &.light {
+      color: $white;
+      background-color: transparent;
+    }
+    &.urgent {
+      color: $red;
+    }
+  }
+  h6 {
+    font-family: $font-family;
+    font-size: 13px;
+    font-weight: 700;
+    &.light {
+      color: $white;
+      background-color: transparent;
+    }
+    &.urgent {
+      color: $red;
+    }
+  }
+  p {
+    font-family: $font-family;
+    font-size: 13px;
+    &.light {
+      color: $white;
+      background-color: transparent;
+    }
+    &.small {
+      font-size: 11px;
+    }
+    &.large {
+      font-size: 15px;
+    }
+  }
+  div.plumb {
+    background-color: $darkerred;
+  }
+  button.cta {
+    font-family: $font-family;
+    font-size: 15px;
+    font-weight: 400;
+    border: none;
+    text-transform: uppercase;
+    color: $black;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    padding: 50px 40px;
+    position: relative;
+    background-color: transparent;
+    &.small {
+      font-size: 11px;
+      &:before {
+        font-size: 36px;
+        font-weight: normal;
+        left: 30px;
+        top: 30px;
+      }
+    }
+    &.dark {
+      color: gray;
+    }
+    &:before {
+      content: "";
+      height:  35px;
+      width: 4px;
+      transform: rotate(45deg);
+      position: absolute;
+      font-weight: normal;
+      left: 28px;
+      top: 35px;
+      background-color: black;
+    }
+    &.urgent:before {
+      background-color: $red;
+    }
+    &.light:before {
+      background-color: $white;
+    }
+    &.light {
+      background-color: transparent;color: $white;
+    }
+  }
+}
+
+.axwayTriangle {
+  position: absolute;
+  background-image: url(https://precocityrw.github.io/axwayTriangle.png);
+  background-size: cover;
+  left: 0;
+  top: -3px;
+  height: 423px;
+  width: 470px;
+  display: block;
+    padding: 15px;
+    margin-bottom: 10px;
+    p {
+      margin-top: 5px;
+      font-weight: 200;
+    }
+    h6 {
+      margin-bottom: 0px;
+    }
+  }
+  .redBoxOne {
+    background-color: $lightred;
+    h6 {
+      color: $white
+    }
+    p {
+      color: white
+    }
+  }
+  .redBoxTwo {
+    background-color: $darkred;
+    h6 {
+      color: $white
+    }
+    p {
+      color: white
+    }
+  }
+  .redBoxThree {
+    background-color: $darkerred;
+    h6 {
+      color: $white
+    }
+    p {
+      color: white
+    }
+}
+
+.axwayTriangle h2 {}

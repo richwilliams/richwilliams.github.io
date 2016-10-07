@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="58px" viewBox="0 0 34 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>Previous</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-581.000000, -2407.000000)" fill="#FFFFFF">
+            <g id="Carousel" transform="translate(-2.000000, 2054.000000)">
+                <g id="Controls" transform="translate(583.000000, 353.000000)">
+                    <g id="Previous" transform="translate(17.000000, 29.000000) rotate(-180.000000) translate(-17.000000, -29.000000) ">
+                        <rect id="Rectangle-9" transform="translate(16.970563, 16.970563) rotate(45.000000) translate(-16.970563, -16.970563) " x="-3.02943725" y="12.9705627" width="40" height="8"></rect>
+                        <rect id="Rectangle-9-Copy" transform="translate(16.970563, 40.970563) rotate(-45.000000) translate(-16.970563, -40.970563) " x="-3.02943725" y="36.9705627" width="40" height="8"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
