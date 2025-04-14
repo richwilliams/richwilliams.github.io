@@ -1,0 +1,80 @@
+Rich Williams, MBA, POPM
+Plano, Texas 75075 · (469) 387-6294 | rchwms@gmail.com  
+linkedin.com/in/rcwx | credly.com/users/richwilliams
+
+---
+
+Product Owner | Digital Transformation | Salesforce B2B | AI + Automation Advocate
+
+Self-directed, assertive Product Owner with 15+ years leading digital innovation. 
+Proven success in authoring detailed features from EPICs, translating complex requirements, and driving agile delivery across Salesforce B2B ecosystems. 
+Experience managing AI-enabled automations, defining cross-functional feature scope, and ensuring architecture alignment. 
+Passionate about usability, data-driven decision-making, and impactful solutions at scale.
+
+---
+
+CORE SKILLS
+
+- Salesforce B2B · Cloudrunner · Salesforce Catalog/Pricing/Promotions  
+- Feature Authoring from EPICs · SAFe Agile · Jira · Itrack · MS Office  
+- Cross-Functional Stakeholder Communication · Architecture Collaboration  
+- AI & Machine Learning Automation · Agile Backlog Grooming  
+- UX + Data Integration · GSA Clearance · Digital Transformation  
+
+---
+
+PROFESSIONAL EXPERIENCE
+
+AT&T – Senior Project Program Manager, Digital Transformation & AI**  
+Dallas, TX | Nov 2023 – Sept 2024
+- Authored features for AI-powered customer validation during B2B order processing.  
+- Translated business requirements into scoped features used by architecture teams.  
+- Reduced order processing time 50%, cut manual work 70%, and increased accuracy 40%.  
+- Collaborated with teams using Jira and MS Office to manage lifecycle from EPICs to done.  
+- Led internal Service Assurance automations integrated with Microsoft Teams.  
+- Granted GSA Clearance in 2024 for federal contract collaboration.
+
+Slalom – Product Owner  
+Dallas, TX | Nov 2021 – Sept 2023
+- Wrote detailed user features in SAFe framework across telecom, airline, and auto projects.  
+- Directed GenAI proof of concepts using AWS, Azure, Kendra, Bedrock & ChatGPT.  
+- Led agile ceremonies; partnered with delivery teams to ensure criteria fulfillment.  
+- Created scalable AI workflows for homebuilders using CosmosDB and Cognitive Search.  
+- Managed user stories through Jira backlog grooming and sprint planning.
+
+PollCart – Product Owner
+Dallas, TX | Jan 2020 – Jun 2020
+- Authored actionable features for social commerce integrations into Shopify.  
+- Led product design and validation to boost conversion and reduce returns via user polling.  
+- Ensured end-to-end feature execution using agile delivery cycles.
+
+Dallas ISD – Software Developer (Agile Contributor)
+Dallas, TX | Jun 2020 – Nov 2021
+- Built Oracle APEX dashboards and Google Maps systems to track student needs.  
+- Delivered features supporting transportation and discipline equity initiatives.  
+
+---
+
+EDUCATION & CERTIFICATIONS
+
+MBA – Business Administration
+Naveen Jindal School of Management, UT Dallas
+
+BA – Psychology
+The University of Texas at Dallas 
+
+Certifications:
+- Certified SAFe 4 Scrum Master  
+- Professional Scrum Master™ I (PSM I)  
+- Salesforce Trailhead Coursework  
+- APEX: Oracle Learning Explorer  
+
+---
+
+AWARDS & RECOGNITION
+
+- “Most Purpose-Led” GenAI Project – Slalom Hackathon  
+- Capital One OMNI Award · Bronze Alumni Award – UT Dallas  
+- Patent: “Pollcart – Method for Social Purchase Validation”
+
+Excellent references available on request.
