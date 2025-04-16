@@ -1,0 +1,73 @@
+Rich Williams, MBA
+rchwms@gmail.com | (469) 387-6294 | Plano, TX 75075
+linkedin.com/in/rcwx | credly.com/users/richwilliams
+
+RESULTS-DRIVEN PRODUCT LEADER
+Innovative, results-driven product leader with 15+ years of experience spanning AI, e-commerce, digital platforms, and customer-centric software development. Adept at defining product strategy, managing full lifecycle development, and leading high-performing teams to deliver measurable business outcomes.
+
+CORE COMPETENCIES
+- End-to-End Product Lifecycle Management
+- Agile & SAFe Frameworks (Certified PO/PM, PSM I)
+- Strategic Product Roadmapping
+- AI/ML Integration in Digital Commerce
+- Customer-Centric Innovation
+- Cross-Functional Team Leadership
+- Data Analytics & BI (Python, SQL, Tableau, Power BI)
+- UX Design & Frontend Dev (React, Angular, Bootstrap)
+- E-Commerce & Digital Marketing Strategy
+- GTM Execution | Voice of Customer | A/B Testing
+
+PROFESSIONAL EXPERIENCE
+AT&T – Dallas, TX Sr. Project/Program Manager, Digital Transformation & AI Nov 2023 – Sep 2024
+- Directed AI automation of customer data validation and order support for government contracts, reducing manual interventions by 70%.
+- Led initiatives leveraging Microsoft Teams and AI to streamline Service Assurance processes and real-time escalation.
+- Integrated SOA workflows to enhance quote-to-cash, boosting customer satisfaction and reducing fallout.
+- Achieved GSA clearance for sensitive government product operations.
+
+Slalom Consulting – Dallas, TX Product Owner, AI & UX Solutions Nov 2021 – Sep 2023
+- Spearheaded award-winning GenAI initiatives with CosmosDB, Bedrock, ChatGPT, and Azure Cognitive Search.
+- Guided Agile delivery across telecom, auto, and airline sectors.
+- Led Solution Owner Academy training cohort and mentored product teams on Agile best practices.
+- Delivered data-driven UX design, NLP integrations, and cloud-native product strategies.
+
+Dallas Independent School District – Dallas, TX Software Developer Jun 2020 – Nov 2021
+- Built dashboards optimizing transportation and homelessness data operations using Oracle APEX and Google Maps.
+- Delivered equitable discipline reporting systems, improving support for at-risk and underserved students.
+
+PollCart – Dallas, TX Product Owner Jan 2020 – Jun 2020
+- Launched patented social commerce plug-in for Shopify to increase UGC, reduce returns, and recover lost sales.
+- Developed polling features to drive viral marketing and conversion via social capital.
+
+Bank of America – Plano, TX Senior Frontend Developer / Product Owner Jun 2017 – Jan 2020
+- I created OCR and NLP tools for legal contracts in React and reduced review time for bankers and attorneys.
+- Built modular frameworks for the CashPro B2B platform to support rapid UX-compliant development.
+
+Precocity LLC – Plano, TX Scrum Master / Senior Frontend Developer Jul 2016 – Feb 2017
+- Led Angular-based dashboard dev for Neiman Marcus; redesigned Drupal 7 platform for Axway.
+
+Capital One – Plano, TX Senior Frontend Developer Sep 2014 – May 2016
+- Delivered UI/UX for Auto Navigator and Home Loans platforms.
+- Integrated analytics and forms-based tools including ChartsJS, DocuSign API, and custom Angular features.
+
+EDUCATION
+UT Dallas: Naveen Jindal School of Management MBA - Business Administration
+UT Dallas: School of Behavioral & Brain Sciences BA - Psychology
+
+CERTIFICATIONS
+- Certified SAFe 4 Scrum Master
+- Certified SAFe Product Owner/Product Manager
+- Professional Scrum Master™ I (Scrum.org)
+- Oracle APEX: Oracle Learning Explorer
+
+AWARDS & PATENTS
+- Slalom 2023 Hackathon: "Most Purpose-Led" + "Best Internal Use Case"
+- Bronze Award for Alumni Development – UT Dallas
+- Capital One OMNI Award – Global Recognition
+- Patent: PollCart Social Commerce Plug-in
+- Trademark: "Social Commerce"
+
+TOOLS & TECH
+Languages/Frameworks: Python, SQL, Angular, React, JavaScript, SASS, CSS, HTML
+5AI & Cloud: AWS AI Services, ChatGPT, Azure Cognitive, Bedrock, CosmosDB
+Analytics: Tableau, Power BI, A/B Testing, User Research
+Dev Tools: JIRA, Git, Figma, Oracle APEX, Adobe Suite
