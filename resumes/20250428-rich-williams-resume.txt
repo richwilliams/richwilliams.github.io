@@ -1,0 +1,124 @@
+RICH WILLIAMS, MBA, POPM
+
+CONTACT
+
+Full Name: Richard Charles Williams III
+Location: Plano, Texas 75075
+Phone: (469) 387-6294
+Email: rchwms@gmail.com
+LinkedIn: linkedin.com/in/rcwx
+
+PROFESSIONAL SUMMARY
+
+Certified SAFe Product Owner and MBA with 15+ years of experience driving digital transformation, AI/automation initiatives, and Agile product delivery across telecom, banking, education, and consulting industries. Skilled in connecting business needs with technical execution through agile frameworks, predictive analytics, cloud technologies, and user-centered design. Proven track record of leading cross-functional teams, cutting inefficiencies, and enhancing customer experience through strategic product management, AI-driven solutions, and continuous process improvement. Expertise in SQL, Tableau, AWS AI services, JIRA, and stakeholder engagement across complex enterprise environments.
+
+CORE SKILLS
+
+- Agile Product Ownership (SAFe, Scrum, Kanban)
+- AI/Automation in Business Process Transformation
+- Data Analysis and Visualization (SQL, Tableau, Power BI)
+- Generative AI (ChatGPT, Azure Cognitive Search, AWS Kendra)
+- B2B and B2C Digital Product Strategy
+- Stakeholder Communication and Facilitation
+- User Experience (UX) Optimization
+- Frontend Development Background (React, Angular)
+- Business Process Reengineering
+- Cloud Services (AWS, Azure)
+
+CERTIFICATIONS
+
+- Certified SAFe 4 Scrum Master, Product Owner/Product Manager (POPM)
+- Professional Scrum Master (PSM)
+- Oracle APEX, Application Express Explorer
+
+PROFESSIONAL EXPERIENCE
+
+EMPLOYER: AT&T
+TITLE: Senior Project Program Manager – Digital Transformation and AI
+LOCATION: Dallas, Texas
+DATES: November 2023 to September 2024
+
+- Led AI automation initiatives, reducing manual customer data validation efforts by 70%, increasing order accuracy, and expediting fulfillment.
+- Designed real-time AI-driven Service Assurance updates via MS Teams, saving operational costs and improving escalation handling.
+- Spearheaded government sector automation to optimize quote-to-cash processes, boosting customer satisfaction and NPS scores.
+- Security Clearance: GSA Contractor Support Clearance granted August 2024.
+
+EMPLOYER: Slalom
+TITLE: Product Owner, Solution Consultant
+LOCATION: Dallas, Texas
+DATES: November 2021 to September 2023
+
+- Delivered award-winning Generative AI solutions leveraging ChatGPT, AWS Kendra, CosmosDB, and Azure services.
+- Guided Agile teams across telecom, airline, and automotive sectors through full solution development lifecycles.
+- Built AI-powered knowledge management systems, driving significant operational efficiencies.
+- Completed Slalom Solution Owner Academy 12-week intensive program.
+
+EMPLOYER: Dallas Independent School District
+TITLE: Software Developer
+LOCATION: Dallas, Texas
+DATES: June 2020 to November 2021
+
+- Developed Oracle APEX dashboards optimizing GPS bus routes, saving operational costs and reducing student commute times.
+- Created systems for tracking homeless student needs and conflict resolution reports, improving service equity and response time.
+
+EMPLOYER: PollCart
+TITLE: Product Owner
+LOCATION: Dallas, Texas
+DATES: January 2020 to June 2020
+
+- Owned product vision and user experience design for a Shopify social commerce platform, increasing merchant sales and user engagement.
+- Invented and created a Chrome plug-in to improve the shopping experience among friends and family.
+
+EMPLOYER: Bank of America Merrill Lynch
+TITLE: Senior Frontend Developer
+LOCATION: Plano, Texas
+DATES: June 2017 to January 2020
+
+- Developed AngularJS and React applications for AI-enhanced OCR and NLP document analysis.
+- Created modular frontend frameworks for B2B platforms, increasing efficiency for backend integration teams.
+- Completed 12-month agile leadership mentorship program
+
+ADDITIONAL EXPERIENCE
+
+EMPLOYER: Precocity
+TITLE: Senior Frontend Developer (Consultant for Neiman Marcus and Axway)
+LOCATION: Plano, Texas
+DATES: July 2016 to February 2017
+
+EMPLOYER: Capital One
+TITLE: Senior Frontend Developer (Garage Innovation Center)
+LOCATION: Plano, Texas
+DATES: September 2014 to May 2016
+
+EMPLOYER: Respondology
+TITLE: Senior Sales Engineer
+LOCATION: Dallas, Texas
+DATES: March 2014 to August 2014
+
+EMPLOYER: University of Texas at Dallas
+TITLE: Senior Web Developer
+DATES: August 2008 to March 2014
+NOTE: Also held earlier roles in administration and facilities management from 2002 to 2008.
+
+EDUCATION
+
+DEGREE: Master of Business Administration (MBA)
+INSTITUTION: Naveen Jindal School of Management, University of Texas at Dallas
+
+DEGREE: Bachelor of Arts (BA) in Psychology
+INSTITUTION: University of Texas at Dallas
+
+AWARDS AND RECOGNITION
+
+2015: Capital One OMNI Award
+2023: Slalom Generative AI Hackathon Winner
+2010: Bronze Alumni Award for Development and Achievement – University of Texas at Dallas
+2019: Bank of America National Hackathon Winner
+
+PATENTS
+
+Title: "PollCart – Method for facilitating purchase decision-making using social polling"
+
+REFERENCES
+
+Excellent references available upon request.
