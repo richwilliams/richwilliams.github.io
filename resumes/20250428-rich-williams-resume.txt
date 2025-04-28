@@ -1,19 +1,12 @@
-RICH WILLIAMS, MBA, POPM
+Richard Charles Williams III, MBA, POPM
 
 CONTACT
-
-Full Name: Richard Charles Williams III
-Location: Plano, Texas 75075
-Phone: (469) 387-6294
-Email: rchwms@gmail.com
-LinkedIn: linkedin.com/in/rcwx
+Location: Plano, TX 75075 | Phone: (469) 387-6294 | Email: rchwms@gmail.com | LinkedIn: linkedin.com/in/rcwx
 
 PROFESSIONAL SUMMARY
-
-Certified SAFe Product Owner and MBA with 15+ years of experience driving digital transformation, AI/automation initiatives, and Agile product delivery across telecom, banking, education, and consulting industries. Skilled in connecting business needs with technical execution through agile frameworks, predictive analytics, cloud technologies, and user-centered design. Proven track record of leading cross-functional teams, cutting inefficiencies, and enhancing customer experience through strategic product management, AI-driven solutions, and continuous process improvement. Expertise in SQL, Tableau, AWS AI services, JIRA, and stakeholder engagement across complex enterprise environments.
+Product Owner and program manager with 15+ years of experience in digital transformation, AI automation, and Agile product delivery across telecom, banking, and education industries. Led AI automation initiatives at AT&T, increasing order accuracy and reducing manual customer data validation efforts by 70%. Experienced, development-to-management career path, prior front-end development background with React and Angular.
 
 CORE SKILLS
-
 - Agile Product Ownership (SAFe, Scrum, Kanban)
 - AI/Automation in Business Process Transformation
 - Data Analysis and Visualization (SQL, Tableau, Power BI)
@@ -21,104 +14,54 @@ CORE SKILLS
 - B2B and B2C Digital Product Strategy
 - Stakeholder Communication and Facilitation
 - User Experience (UX) Optimization
-- Frontend Development Background (React, Angular)
+- Front-end Development Background (React, Angular)
 - Business Process Reengineering
 - Cloud Services (AWS, Azure)
 
 CERTIFICATIONS
-
 - Certified SAFe 4 Scrum Master, Product Owner/Product Manager (POPM)
 - Professional Scrum Master (PSM)
 - Oracle APEX, Application Express Explorer
 
 PROFESSIONAL EXPERIENCE
-
-EMPLOYER: AT&T
-TITLE: Senior Project Program Manager – Digital Transformation and AI
-LOCATION: Dallas, Texas
-DATES: November 2023 to September 2024
-
+AT&T | Senior Project Program Manager for Digital Transformation and AI | Dallas, TX | 11/2023 - 09/2024
 - Led AI automation initiatives, reducing manual customer data validation efforts by 70%, increasing order accuracy, and expediting fulfillment.
-- Designed real-time AI-driven Service Assurance updates via MS Teams, saving operational costs and improving escalation handling.
-- Spearheaded government sector automation to optimize quote-to-cash processes, boosting customer satisfaction and NPS scores.
-- Security Clearance: GSA Contractor Support Clearance granted August 2024.
+- Engineered AI-driven service assurance bot delivering real-time updates via MS Teams; solved Mean Time To Resolution (MTTR) by 35% and reduced P1/P2 escalations by 22%.
+- Championed AI-modernised data validation initiative, improving data accuracy by 98% and slashing manual validation efforts and errors for government contracts; became go-to subject matter expert on process.
+- Orchestrated comprehensive security protocols aligned with GSA standards, facilitating seamless collaboration with government agencies and ensuring compliance with strict data privacy regulations; completed 40 hours of security training.
 
-EMPLOYER: Slalom
-TITLE: Product Owner, Solution Consultant
-LOCATION: Dallas, Texas
-DATES: November 2021 to September 2023
+Slalom | Product Owner, Solution Consultant | Dallas, TX | 11/2021 - 09/2023
+- Award: International Slalom Generative AI Hackathon Winner
+- Pioneered the delivery of a GenAI-supported chatbot using AWS, ChatGPT, and Azure services, achieving a 95% customer satisfaction rate and resolving 300+ support tickets autonomously per month, freeing up valuable agent resources.
+- Orchestrated Agile transformation across three Fortune 500 companies, slashing solution delivery times by 30% and boosting client satisfaction scores by 25%, enabling faster product releases.
+- Implemented an AI-driven chatbot system that triaged 80% of incoming queries; also onboarded two new subject matter experts onto the system, which simplified query processing speed by 20%.
+- Forged advanced expertise in Agile methodologies and solution development life-cycles through a rigorous 12-week Slalom program, enabling the orchestration of cross-functional teams and delivery of scalable solutions.
 
-- Delivered award-winning Generative AI solutions leveraging ChatGPT, AWS Kendra, CosmosDB, and Azure services.
-- Guided Agile teams across telecom, airline, and automotive sectors through full solution development lifecycles.
-- Built AI-powered knowledge management systems, driving significant operational efficiencies.
-- Completed Slalom Solution Owner Academy 12-week intensive program.
+Dallas Independent School District (DISD) | Software Developer | Dallas, TX | 06/2020 - 11/2021
+- Piloted Oracle APEX dashboards and optimized GPS bus routes based on student feedback, identifying the three most significant causes of delays and improving on-time arrivals.
+- Pioneered a case management system to track homeless student needs and intervention outcomes; a system now used daily by 30+ case managers, improving service delivery and equity.
 
-EMPLOYER: Dallas Independent School District
-TITLE: Software Developer
-LOCATION: Dallas, Texas
-DATES: June 2020 to November 2021
+PollCart (Startup) | Product Owner (Creator and Founder) | Dallas, TX | 01/2020 - 06/2020
+- Drove product vision and UX design for a Shopify social commerce platform, implementing personalized product recommendations that boosted average merchant sales by 15% and increased user engagement by 20%.
+- Engineered a social shopping browser plugin, enhancing peer product discovery and reducing abandoned carts by 15% through personalized recommendations; implemented for 50 friends and family beta testers.
 
-- Developed Oracle APEX dashboards optimizing GPS bus routes, saving operational costs and reducing student commute times.
-- Created systems for tracking homeless student needs and conflict resolution reports, improving service equity and response time.
-
-EMPLOYER: PollCart
-TITLE: Product Owner
-LOCATION: Dallas, Texas
-DATES: January 2020 to June 2020
-
-- Owned product vision and user experience design for a Shopify social commerce platform, increasing merchant sales and user engagement.
-- Invented and created a Chrome plug-in to improve the shopping experience among friends and family.
-
-EMPLOYER: Bank of America Merrill Lynch
-TITLE: Senior Frontend Developer
-LOCATION: Plano, Texas
-DATES: June 2017 to January 2020
-
-- Developed AngularJS and React applications for AI-enhanced OCR and NLP document analysis.
-- Created modular frontend frameworks for B2B platforms, increasing efficiency for backend integration teams.
-- Completed 12-month agile leadership mentorship program
+Bank of America/Merrill Lynch | Senior Front-end Developer | Plano, TX | 06/2017 - 01/2020
+- Award: Bank of America National Hackathon Winner
+- Pioneered the development of two AI/machine learning applications using AngularJS and React for OCR and NLP document analysis; accelerated document processing speeds by 60% while maintaining 99.99% accuracy.
+- Pioneered reusable React component library for B2B platform front-ends, cutting down integration time for new backend features by 40% and accelerating feature releases by 25 days.
+- Revolutionized team communication by implementing agile leadership principles learned from a 12-month mentorship; fostered cross-functional collaboration, eliminating three critical project roadblocks.
 
 ADDITIONAL EXPERIENCE
+Precocity (Startup) | Senior Frontend Developer (Consultant for Neiman Marcus and Axway) | Plano, TX 07/2016 - 02/2017
 
-EMPLOYER: Precocity
-TITLE: Senior Frontend Developer (Consultant for Neiman Marcus and Axway)
-LOCATION: Plano, Texas
-DATES: July 2016 to February 2017
+Capital One | Senior Frontend Developer (Garage Innovation Center) | Plano, TX | 09/2014 - 05/2016
+Award: Capital One OMNI Award, Loan Hub Home Mortgage Journey
 
-EMPLOYER: Capital One
-TITLE: Senior Frontend Developer (Garage Innovation Center)
-LOCATION: Plano, Texas
-DATES: September 2014 to May 2016
+Respondology (Startup) | Senior Sales Engineer | Dallas, TX  | 03/2014 - 08/2014
 
-EMPLOYER: Respondology
-TITLE: Senior Sales Engineer
-LOCATION: Dallas, Texas
-DATES: March 2014 to August 2014
+The University of Texas at Dallas (UTD) | Senior Web Developer | Richardson, TX | 08/2008 - 03/2014
+Award: Bronze Alumni Award for Development and Achievement
+NOTE: Held earlier roles in administration and facilities management from 2002 to 2008, and in these roles, orchestrated administrative process improvements by designing and implementing a digital document management system, reducing paper waste by 65%, and saving 20 hours per week in retrieval time.
 
-EMPLOYER: University of Texas at Dallas
-TITLE: Senior Web Developer
-DATES: August 2008 to March 2014
-NOTE: Also held earlier roles in administration and facilities management from 2002 to 2008.
-
-EDUCATION
-
-DEGREE: Master of Business Administration (MBA)
-INSTITUTION: Naveen Jindal School of Management, University of Texas at Dallas
-
-DEGREE: Bachelor of Arts (BA) in Psychology
-INSTITUTION: University of Texas at Dallas
-
-AWARDS AND RECOGNITION
-
-2015: Capital One OMNI Award
-2023: Slalom Generative AI Hackathon Winner
-2010: Bronze Alumni Award for Development and Achievement – University of Texas at Dallas
-2019: Bank of America National Hackathon Winner
-
-PATENTS
-
-Title: "PollCart – Method for facilitating purchase decision-making using social polling"
-
-REFERENCES
-
-Excellent references available upon request.
+EDUCATION: Master of Business Administration (MBA) | Naveen Jindal School of Management, The University of Texas at Dallas (UTD)
+PATENT: PollCart – Method for facilitating purchase decision-making using social polling
