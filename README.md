@@ -1,2 +1,2 @@
-# richwilliams.github.io
-Rich's GitHub Home
+# axway-cm.github.io
+Axway Global Framework
